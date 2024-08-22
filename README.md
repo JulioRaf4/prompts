@@ -19,7 +19,7 @@ Prompts for people who want to create a good chat using chatgpt or another text-
 
 ---
 
-# Prompts templates to use in LLM Chats
+# Tech prompts templates to use in LLM Chats
 
 ## Software Engineer 
 
