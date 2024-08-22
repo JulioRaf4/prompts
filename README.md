@@ -1,6 +1,12 @@
+# 🤖 Chat GPT Prompts 
+
+Prompts for people who want to create a good chat using chatgpt or another text-to-text template with memory. Different prompts and different subjects.
+
+---
+
 # Summary
 
-- [Tehc prompts templates to use in LLM Chats](#templates-de-prompts)
+- [Tech prompts templates to use in LLM Chats](#templates-de-prompts)
   - [Software Engineer](#software-engineer)
   - [Backend Developer](#backend-developer)
   - [Data Engineer](#data-engineer)
