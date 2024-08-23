@@ -1,6 +1,6 @@
 # 🤖 Chat GPT Prompts 
 
-Prompts for people who want to create a good chat using chatgpt or another text-to-text template with memory. Different prompts and different subjects.
+Prompts for people who want to create a good chat using chatgpt or another text-to-text chat model. Different prompts and different subjects. Open to contributions.
 
 ---
 
