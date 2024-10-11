@@ -2,7 +2,7 @@
 
 Prompts for people who want to create a good chat using chatgpt or another text-to-text chat model. Different prompts and different subjects. Open to contributions.
 
----
+----
 
 # Summary
 
